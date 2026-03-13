@@ -1,16 +1,18 @@
-## Hi there 👋
+# Kaushik Kanjilal
 
-<!--
-**kaushikkanjilal/kaushikkanjilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Data Analysis and Business Intelligence.
 
-Here are some ideas to get you started:
+## Currently studying
+- Advanced Excel
+- SQL
+- Python
+- Pandas
+- Power BI
+- Tableau
+- QuickBooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+Transition into Data Analyst / Reporting Analyst role.
+
+## Current focus
+Practicing Python, SQL and building data analysis projects.
